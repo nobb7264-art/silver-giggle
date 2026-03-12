@@ -1,4 +1,4 @@
-echo "# silver-giggle" >> main.bat.
+echo "# silver-giggle" >> main.bat
 git init 
 git add README.md 
 git commit -m "first commit" 
