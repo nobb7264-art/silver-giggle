@@ -1,5 +1,5 @@
 echo "<script src="https://gist.github.com/nobb7264-art/0a7d8e7e91c9dba7f1b1a2504f5ffd16.js"></script> >> main.bat
-# In Android 4.3 these options moved from the "am" command (ActivityManager) 
+#  "am" command (ActivityManager) 
 # to the "wm" command (WindowManager). Type "adb shell wm" for details.
 #
 # So you can now run on 4.3 devices:
