@@ -1,6 +1,6 @@
 echo "<script src="https://gist.github.com/nobb7264-art/0a7d8e7e91c9dba7f1b1a2504f5ffd16.js"></script> >> main.bat
 #  "am" command (ActivityManager) 
-# to the "wm" command (WindowManager)
+# to the "wm" command
 . Type "adb shell wm" for details.
 #
 
